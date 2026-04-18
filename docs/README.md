@@ -1,4 +1,4 @@
 ## RavenSystem's Apps
 
-- [Support](support.html)
-- [Privacy Policy](privacy.html)
+- [Support](support.md)
+- [Privacy Policy](privacy.md)
